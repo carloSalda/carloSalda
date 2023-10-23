@@ -1,5 +1,5 @@
 <p>Hi there 👋
-👋 Hi, I’m @carloSalda
+ I’m @carloSalda
 👀 I’m interested in software development and cybersecurity
 🌱 I’m currently studying a computer science major 
 </p>
