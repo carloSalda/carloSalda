@@ -13,6 +13,6 @@ Durante el año que llevo estudiando he tenido la oportunidad de trabajar con di
 - HTML (Aprendiendo actualmente) 🔨
 
 ### Idiomas 🌏
-- Español (Lengua Materna) :Mexico:
-- Ingles (Certificacion Pearson C1 con Merito) :US:
+- Español (Lengua Materna) 🇲🇽
+- Ingles (Certificacion Pearson C1 con Merito) 🇺🇸
 - Aleman (Estudiando) 📚
